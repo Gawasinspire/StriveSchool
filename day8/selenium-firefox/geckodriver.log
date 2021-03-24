@@ -870,3 +870,84 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1616601967091	geckodriver	INFO	Listening on 127.0.0.1:36649
+1616601968102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyYJU3e"
+
+(firefox:55513): IBUS-WARNING **: 17:06:10.652: Unable to connect to ibus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616601974333	Marionette	INFO	Listening on port 34767
+1616601974510	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616601977230	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616602149020	Marionette	INFO	Stopped listening on port 34767
+1616604222450	geckodriver	INFO	Listening on 127.0.0.1:56263
+1616604223461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCG2r3M"
+
+(firefox:56200): IBUS-WARNING **: 17:43:45.892: Unable to connect to ibus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616604230096	Marionette	INFO	Listening on port 42543
+1616604230158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616604233095	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616604269693	Marionette	INFO	Stopped listening on port 42543
+1616608401225	geckodriver	INFO	Listening on 127.0.0.1:51249
+1616608402261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH4Ggod"
+
+(firefox:57641): IBUS-WARNING **: 18:53:25.111: Unable to connect to ibus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616608408939	Marionette	INFO	Listening on port 44499
+1616608409045	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616608411804	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616609169353	geckodriver	INFO	Listening on 127.0.0.1:48575
+1616609170357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile13AZWq"
+
+(firefox:58231): IBUS-WARNING **: 19:06:13.130: Unable to connect to ibus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616609177063	Marionette	INFO	Listening on port 40751
+1616609177170	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616609179321	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616609207272	Marionette	INFO	Stopped listening on port 40751
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616609211599	geckodriver	INFO	Listening on 127.0.0.1:42523
+1616609212609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyvZ5HE"
+
+(firefox:58450): IBUS-WARNING **: 19:06:55.430: Unable to connect to ibus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616609219945	Marionette	INFO	Listening on port 36713
+1616609220074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616609222276	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616609275881	geckodriver	INFO	Listening on 127.0.0.1:60545
+1616609275896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7WXAES"
+
+(firefox:58648): IBUS-WARNING **: 19:07:58.554: Unable to connect to ibus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616609284180	Marionette	INFO	Listening on port 42957
+1616609284336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616609286717	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616609462661	geckodriver	INFO	Listening on 127.0.0.1:44111
+1616609463669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLUsU1U"
+
+(firefox:58922): IBUS-WARNING **: 19:11:06.004: Unable to connect to ibus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616609469761	Marionette	INFO	Listening on port 46767
+1616609469864	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616609803518	Marionette	INFO	Stopped listening on port 46767
+1616609816125	geckodriver	INFO	Listening on 127.0.0.1:59421
+1616609816133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePzSPva"
+
+(firefox:59237): IBUS-WARNING **: 19:16:58.156: Unable to connect to ibus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616609821552	Marionette	INFO	Listening on port 44489
+1616609821628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616609823992	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616610021238	Marionette	INFO	Stopped listening on port 44489
