@@ -1427,3 +1427,11 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript warning: https://static3.mfbcdn.net/assets/global/plugins/moment.min.js, line 6: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
 1616684152736	Marionette	INFO	Stopped listening on port 35919
+1616740464166	geckodriver	INFO	Listening on 127.0.0.1:55891
+1616740465179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMlJPeE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616740470584	Marionette	INFO	Listening on port 44573
+1616740470677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616740473574	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616742774522	Marionette	INFO	Stopped listening on port 44573
