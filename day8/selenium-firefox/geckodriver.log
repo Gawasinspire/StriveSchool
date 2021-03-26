@@ -1435,3 +1435,38 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1616740473574	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
 1616742774522	Marionette	INFO	Stopped listening on port 44573
+1616756443333	geckodriver	INFO	Listening on 127.0.0.1:47005
+1616756444341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9nGjfU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616756450304	Marionette	INFO	Listening on port 42961
+1616756450438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616756453455	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616756993020	Marionette	INFO	Stopped listening on port 42961
+1616757716246	geckodriver	INFO	Listening on 127.0.0.1:52309
+1616757717258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFjBgqr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616757723622	Marionette	INFO	Listening on port 44897
+1616757723811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616757726256	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616757854157	Marionette	INFO	Stopped listening on port 44897
+1616757923134	geckodriver	INFO	Listening on 127.0.0.1:48577
+1616757923140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWLfSfw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616757928314	Marionette	INFO	Listening on port 45079
+1616757928425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616757930538	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616758265103	geckodriver	INFO	Listening on 127.0.0.1:48779
+1616758266118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4mm8Km"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616758277620	Marionette	INFO	Stopped listening on port 45079
+1616758277719	Marionette	INFO	Listening on port 34881
+1616758277873	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616762037797	geckodriver	INFO	Listening on 127.0.0.1:50639
+1616762038807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexRmL8E"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616762044508	Marionette	INFO	Listening on port 35883
+1616762044602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616762047373	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
