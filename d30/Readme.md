@@ -25,3 +25,7 @@ matplotlib
 pandas
 sklearn
 
+
+
+# Note
+Alliance finder is your co-ordinates verifying tool
