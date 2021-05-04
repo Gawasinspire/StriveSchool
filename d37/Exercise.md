@@ -5,30 +5,71 @@
 ### ❓ Missing values
 
 1. What is the missing datatype used in pandas?
+ans:  pd.NaT, np.nan, None --> pd is pandas
+
 2. How to replace all occurences of the value 9999 to missing in pandas?
+ans: # using replace function
+  	import numpy as np
+	df['column'].replace('9999', np.NaN)   #traditionally
+	df['column'].replace('9999', pd.NaT)   #pandas
+
+
 3. How to get the absolute number of missings for each variable in pandas?
+ans: df.isna().sum()
+
 4. How to get the percentage of missings for each variable in pandas?
+ans: df.isna().sum()/len(df)
+
 5. How to drop rows with missing values?
+ans:df.dropna()
+
 6. How to drop variables with missing values?
+ans: i assume it as column,
+	df.dropna(axis='columns')
+	df.dropna(thresh=2) # like wise you could mention also threshold
+
 7. What is the univariate imputation method in sklearn?
+ans: values in the i-th feature dimension using only non-missing values in
+	 that feature dimension (e.g. impute.SimpleImputer). By contrast,
+	 multivariate imputation algorithms use the entire set of available
+	 feature dimensions to estimate the missing values (e.g. impute.IterativeImputer).
+
 8. What is the multivariate imputation method in sklearn?
+ans: multivariate imputation algorithms use the entire set of available 
+         feature dimensions to estimate the missing values (e.g. impute.IterativeImputer).
+
 9. What is the best univariate imputation method to categorical variables? (Explain why)
+ans: It depends. I could not argue for "the best" univariate imputator.
+
 10. What is the best univariate imputation method to numerical variables? (Explain why)
+ans:  It depends. I could not argue for "the best" univariate imputator.
+	common imputation --> Mean imputation, median imputation
 
 
 ### 🔎 Outliers
 
 1. What is an outlier?
+ans: Outlier is the values that is significantly differs from the normal data. example,
+	in STD. Norm Dist. the values outside 99.99 could be marked as outliers. 
+
 2. What is a simple method to detect and deal with outliers of a numerical variable?
+ans: box plot it. or by using interquartile range 
+
 3. What is novelty detection?
+ans: anomaly detection or outlier detection.
+
 4. Name 4 advanced methods of outlier detection in sklearn.
+ans: Isolation Forest, Minimum Covariance Determinant, Local Outlier Factor, One-Class SVM
 
 
 ### 🖋 Typos
 
 1. What is a typo?
-2. What is a good method of automatically detect typos?
+	typographical errors..
+	dates: like 3000
 
+2. What is a good method of automatically detect typos?
+ans:  Fuzzywuzzy
 
 
 ### Practical case
